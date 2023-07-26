@@ -1,0 +1,409 @@
+.navbar{
+    background-color:#4575c4 !important;
+}
+.navbar-brand{
+    margin-left:45px;
+    color:azure !important;
+    font-family: 'Montserrat', sans-serif;
+    transition:0.4s;
+}
+.navbar-brand:hover{
+    color:#37ccb1 !important;
+}
+.collapse li{
+    padding-right:30px !important;
+}
+.navbar-brand img{
+    margin-right:20px;
+}
+.collapse li a{
+    color: azure !important;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    transition:0.4s;
+}
+.collapse li a:hover{
+    color:#37ccb1 !important;
+}
+.collapse li a i{
+    margin-right:4px;
+}
+.background{
+    height:650px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    background-image: url('./Images/background_2.jpg');
+    background-size: cover;
+    opacity: 0.75;
+    background-attachment: fixed;
+}
+.First{
+    font-weight: 700;
+    color:azure !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size:75px;
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+.Second{
+    font-weight: 500;
+    color:azure !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size:30px;
+    text-align: center;
+}
+.short{
+    color:azure !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px;
+    text-align: center;
+}
+.btn{
+    font-size:15px;
+    padding: 10px 25px 10px 25px;
+    font-family: 'Montserrat', sans-serif;
+    background-color:#2b67c7;
+    color:azure;
+    text-decoration:none;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: transform ease-out 0.4s !important;
+    cursor: pointer;
+
+}
+.btn:hover{
+    transform: scale(1.05) !important;
+    text-decoration: none;
+    color:white;
+    opacity:0.9;
+}
+.input_area{
+    padding-top:60px;
+}
+.below_background{
+    height:3700px;
+    background-color: azure;
+}
+.About{
+    background-color: rgb(226, 255, 255);
+    height:850px;
+    margin-top:80px;
+}
+.about{
+    font-size:35px;
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:500;
+}
+.about_header{
+    padding-top:100px;
+}
+.about_text{
+    font-size:25px;
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+
+}
+.container{
+    padding-top:70px;
+}
+.new{
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size:20px;
+    font-weight: 500;
+    padding-top:10px;
+}
+.readmore_button{
+    padding-top:100px;
+}
+.services_header{
+    background-color: rgb(226, 255, 255);
+    height:1000px;
+    margin-top:80px;
+}
+.new_container{
+    height:280px;
+    background-color:rgb(244, 253, 253);
+    text-align: center;
+    border-radius:2px;
+}
+.line{
+    height:1px;
+    background-color: #2b67c7;
+    width:180px;
+}
+.new_container:hover{
+    opacity:0.8;
+}
+
+.text{
+    font-size:25px;
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    margin-top:20px;
+}
+.insurance_section{
+    height:600px;
+    background-color: rgb(226, 255, 255);
+    margin-top:80px;
+
+}
+.insurance_head{
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    padding-top:50px;
+    font-size:35px;
+}
+.insurance_header{
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    padding-top:10px;
+    font-size:30px;
+}
+.insurance_text{
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    margin-top:20px;
+    font-size:25px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.service_text{
+    font-size:25px;
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+
+}
+.covidHeader{
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size:30px;
+    
+}
+.covid{
+    background-color: rgb(226, 255, 255);
+    height:530px;
+    margin-top:80px;
+}
+.covidtext{
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size:20px;
+}
+.contact{
+    height:330px;
+    background-color:#4575c4;
+    margin-top:80px;
+}
+.add{
+    font-size:25px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    color:azure;
+
+}
+.addnew{
+    font-size:20px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    color:azure;
+}
+input[type=email]{
+  padding: 12px 20px;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color:#2b67c7 !important;
+  background-color:azure !important;
+  font-size:15px;
+  text-align:center;
+}
+
+::-webkit-input-placeholder {
+    color: #2b67c7;
+    font-weight: 600;
+    text-align:center;
+  }
+.fab,.fas{
+    margin-left:8px;
+}
+@media screen and (max-width:1200px) {
+    .About{
+        height:1100px;
+    }
+    .services_header{
+        height:1500px;
+    }
+    .covid{
+        height:600px;
+    }
+    
+
+}
+@media screen and (max-width:610px){
+    .First{
+        font-size:50px;
+    }
+    .About{
+        height:1900px;
+    }
+    .service_text{
+        font-size:18px;
+    }
+    .services_header{
+        height:2200px;
+    }
+    .insurance_section{
+        height:1200px;
+    }
+    .insurance img{
+        height:200px !important;
+        width:200px !important;
+    }
+
+}
+.services img{
+    border-radius:6px;
+}
+.newline{
+    height:2px;
+    width:200px;
+    background-color:azure;
+}
+@media screen and (max-width:990px){
+    .services_header{
+        height:2200px;
+    }
+    .insurance_section{
+        height:900px;
+    }
+    .below_background{
+        height:6500px;
+    }
+}
+@media  screen and (max-width:989px) and (min-width:850px){
+    .About{
+        height:1100px;
+    }
+}
+@media screen and (max-width:801px) and (min-width:618px){
+    .About{
+        height:1500px;
+    }
+}
+@media screen and (max-width:1260px) and (min-width:999px){
+    .center{
+        height:300px !important;
+        width:450px !important;
+    }
+}
+@media screen and (max-width:772px){
+    .center{
+        height:270px !important;
+        width:400px !important;
+    }
+}
+@media screen and (max-width:432px){
+    .center{
+        height:220px !important;
+        width:360px !important;
+    }
+}
+@media screen and (max-width:401px){
+    .center{
+        height:190px !important;
+        width:300px !important;
+    }
+    .navbar-brand img{
+        margin-right:10px;
+    }
+    .navbar-brand{
+        font-size:20px;
+        margin-left:5px;
+    }
+    .collapse li .fas{
+        margin-left:-5px !important;
+    }
+
+}
+@media screen and (max-width:990px) and (min-width:781px){
+    .covid{
+        height:850px;
+    }
+    .below_background{
+        height:5800px !important;
+    }
+    .contact{
+        height:400px !important;
+    }
+    
+}
+@media screen and (max-width:768px){
+    .covid{
+        height:1000px;
+    }
+    .below_background{
+        height:7200px;
+    }
+    .contact{
+        height:900px !important;
+    }
+
+}
+@media screen and (max-width:1178px) and (min-width:1001px){
+    .below_background{
+        height:4500px !important;
+    }
+}
+@media screen and (max-width:770px) and (min-width:627px){
+    .below_background{
+        height:6000px;
+    }
+}
+@media screen and (max-width:780px) and (min-width:772px){
+    .contact{
+        margin-top:250px;
+        height:400px;
+    }
+    .below_background{
+        height:5500px;
+    }
+}
+@media screen and (max-width:997px) and (min-width:992px){
+    .covid img{
+        height:220px !important;
+        width:300px !important;
+    }
+}
+@media screen and (max-width:500px){
+    .new_container{
+        margin-top:15px;
+    }
+}

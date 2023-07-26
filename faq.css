@@ -1,0 +1,143 @@
+.navbar{
+    background-color:#4575c4 !important;
+}
+.navbar-brand{
+    margin-left:45px;
+    color:azure !important;
+    font-family: 'Montserrat', sans-serif;
+    transition:0.4s;
+}
+.navbar-brand:hover{
+    color:#37ccb1 !important;
+}
+.collapse li{
+    padding-right:30px !important;
+}
+.navbar-brand img{
+    margin-right:20px;
+}
+.collapse li a{
+    color: azure !important;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    transition:0.4s;
+}
+.collapse li a:hover{
+    color:#37ccb1 !important;
+}
+.collapse li a i{
+    margin-right:4px;
+}
+.new{
+    height:230px;
+    background-color: #4575c4;
+    margin-top:60px;
+}
+.container i{
+    text-align: center;
+    color: aliceblue;
+    margin-top:30px;
+    width:100%;
+}
+.text{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+}
+.counter{
+    color: aliceblue;
+    font-size:35px;
+    margin-top:10px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+.header{
+    font-size:30px;
+    text-align: center;
+    color: #4575c4;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    padding-top:30px;
+}
+.txt{
+    color:#4575c4;
+    font-size:35px;
+    margin-top:10px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight:700;
+}
+.box{
+    background-color: #37ccb1;
+    height:500px;
+
+}
+.copyright{
+    color:#2b67c7;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    margin-top:20px;
+    font-size:25px;
+}
+.accordion{
+    background-color:aliceblue;
+    color:#2b67c7;
+    font-size:25px;
+    outline: none;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    transition: 0.4s;
+}
+.active, .accordion:hover {
+    background-color: #ccc;
+  }
+  
+  .accordion:after {
+    content: '\002B';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .active:after {
+    content: "\2212";
+  }
+  
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+.message{
+    margin-top:10px;
+    color: #2b67c7;
+    font-family: 'Raleway', sans-serif;
+    font-weight:700;
+}
+.box2{
+    margin-top:50px;
+}
+@media screen and (max-width:764px){
+    .new{
+        height:730px;
+    }
+}
+@media screen and (max-width:402px){
+    .box{
+        height:600px;
+    }
+    .navbar-brand{
+        margin-left:10px;
+    }
+    .navbar-brand img{
+        margin-right:5px;
+    }
+
+}
