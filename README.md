@@ -35,7 +35,7 @@ This project is a healthcare website designed and developed using HTML, CSS, Boo
 - **JavaScript:** Added interactivity and dynamic features to enhance user engagement.
 
 ## Screenshots
-<img width="948" alt="Screenshot 2024-01-06 215010" src="https://github.com/meghakv59/healthCare/assets/133174912/45b7ff91-47fe-4a13-b5af-dd1152df0b0f">
+<img width="943" alt="Screenshot 2024-01-06 214753" src="https://github.com/meghakv59/healthCare/assets/133174912/23c124d5-bf72-4ce6-8e8a-3c34a2f1603e">
 <img width="946" alt="Screenshot 2024-01-06 214809" src="https://github.com/meghakv59/healthCare/assets/133174912/950c8f64-b382-4fea-8d52-bdbe11b8a6bb">
 <img width="945" alt="Screenshot 2024-01-06 214828" src="https://github.com/meghakv59/healthCare/assets/133174912/96d0c572-4aa6-4edd-a3a2-18e8f9c195e0">
 <img width="946" alt="Screenshot 2024-01-06 214841" src="https://github.com/meghakv59/healthCare/assets/133174912/1f8e93a3-6ae1-41f7-a5e5-bf43adb7ac7f">
