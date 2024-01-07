@@ -10,6 +10,8 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+## Host Link: https://meghakv59.github.io/healthCare/
+
 ## Description
 
 This project is a healthcare website designed and developed using HTML, CSS, Bootstrap, and JavaScript. The primary focus is on creating an attractive, responsive, and user-friendly experience for visitors seeking medical information and services. The website implements intuitive navigation to ensure efficient user journeys and accessibility.
